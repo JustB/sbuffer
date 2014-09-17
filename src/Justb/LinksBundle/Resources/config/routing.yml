@@ -1,3 +1,6 @@
 justb_links_homepage:
     path:     /hello/{name}
     defaults: { _controller: JustbLinksBundle:Default:index }
+create_link:
+  path: /link/create
+  defaults: { _controller: JustbLinksBundle:Default:create }
