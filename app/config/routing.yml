@@ -1,0 +1,4 @@
+justb_links:
+    resource: "@JustbLinksBundle/Resources/config/routing.yml"
+    prefix:   /
+

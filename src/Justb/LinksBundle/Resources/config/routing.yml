@@ -1,0 +1,3 @@
+justb_links_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JustbLinksBundle:Default:index }

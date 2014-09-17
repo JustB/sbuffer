@@ -1,0 +1,7 @@
+parameters:
+#    justb_links.example.class: Justb\LinksBundle\Example
+
+services:
+#    justb_links.example:
+#        class: %justb_links.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
